@@ -20,7 +20,6 @@ var moduleNames = [
   'delegates',
   'round',
   'multisignatures',
-  'uia',
   'dapps',
   'sql',
   'blocks',

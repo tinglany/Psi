@@ -9,3 +9,7 @@ out
 gen
 .gitignore
 .idea/
+blockchain.db
+logs/debug.log
+node_modules/
+package-lock.json
