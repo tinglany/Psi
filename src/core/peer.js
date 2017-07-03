@@ -7,8 +7,6 @@ var extend = require('extend');
 var Router = require('../utils/router.js');
 var sandboxHelper = require('../utils/sandbox.js');
 
-require('array.prototype.find'); // Old node fix
-
 // Private fields
 var modules, library, self, private = {}, shared = {};
 

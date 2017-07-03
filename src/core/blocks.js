@@ -13,8 +13,6 @@ var slots = require('../utils/slots.js');
 var TransactionTypes = require('../utils/transaction-types.js');
 var sandboxHelper = require('../utils/sandbox.js');
 
-require('array.prototype.findindex'); // Old node fix
-
 var genesisblock = null;
 // Private fields
 var modules, library, self, private = {}, shared = {};

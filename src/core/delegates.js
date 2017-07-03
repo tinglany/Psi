@@ -11,8 +11,6 @@ var TransactionTypes = require('../utils/transaction-types.js');
 var sandboxHelper = require('../utils/sandbox.js');
 var addressHelper = require('../utils/address.js')
 
-require('array.prototype.find'); // Old node fix
-
 // Private fields
 var modules, library, self, private = {}, shared = {};
 
