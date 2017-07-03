@@ -35,20 +35,19 @@
     "strftime": "0.10.0",
     "util-extend": "1.0.3",
     "valid-url": "1.0.9",
-    "z-schema": "https://github.com/sqfasd/z-schema/tarball/master"
+    "lodash": "4.17.4",
+    "z-schema": "3.18.2"
   },
   "devDependencies": {
-    "babel": "=5.8.23",
-    "chai": "^3.0.0",
+    "chai": "4.0.2",
     "gulp": "^3.9.1",
-    "gulp-replace": "^0.5.4",
+    "gulp-replace": "^0.6.1",
     "gulp-shell": "^0.5.2",
-    "lodash": "^3.9.3",
-    "mocha": "^2.2.5",
-    "moment": "^2.9.0",
-    "should": "~4.6.0",
-    "supertest": "^1.0.1",
-    "webpack-node-externals": "^1.2.0",
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0",
+    "webpack-node-externals": "^1.6.0",
     "webpack-stream": "^3.2.0"
   }
 }
